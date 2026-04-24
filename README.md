@@ -19,7 +19,7 @@ Built for people who swap between Bluetooth headphones and speakers throughout t
 
 ---
 
-## Build a standalone exe (Windows **without Pyhton**)
+## Build a standalone exe (Windows **without Python**)
 
 Run **`build_exe.bat`** — it installs PyInstaller and produces `dist\BT Switcher.exe`. That single file runs on any Windows 10/11 PC with no Python required.
 
