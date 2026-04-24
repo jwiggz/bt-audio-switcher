@@ -19,6 +19,15 @@ Built for people who swap between Bluetooth headphones and speakers throughout t
 
 ---
 
+## Build a standalone exe (Windows **without Pyton**)
+
+Run **`build_exe.bat`** — it installs PyInstaller and produces `dist\BT Switcher.exe`. That single file runs on any Windows 10/11 PC with no Python required.
+
+> **Note:** Windows SmartScreen may warn about an unsigned exe. Click **More info → Run anyway**.
+
+---
+
+
 ## Quick start (with Python)
 
 1. Install dependencies:
@@ -35,14 +44,6 @@ Built for people who swap between Bluetooth headphones and speakers throughout t
    ```
    python bluetooth_switcher.py
    ```
-
----
-
-## Build a standalone exe
-
-Run **`build_exe.bat`** — it installs PyInstaller and produces `dist\BT Switcher.exe`. That single file runs on any Windows 10/11 PC with no Python required.
-
-> **Note:** Windows SmartScreen may warn about an unsigned exe. Click **More info → Run anyway**.
 
 ---
 
